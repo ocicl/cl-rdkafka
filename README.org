@@ -1,0 +1,10 @@
+* cl-rdkafka
+
+Common Lisp library for Kafka
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/SahilKang/cl-rdkafka.git   |
+| commit  | cd47e1a  |
+| systems | cl-rdkafka |
+|---------+-------------------------------------------|
+
