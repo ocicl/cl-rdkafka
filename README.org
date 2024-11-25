@@ -2,9 +2,8 @@
 
 Common Lisp library for Kafka
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/SahilKang/cl-rdkafka.git   |
-| commit  | cd47e1a  |
-| systems | cl-rdkafka |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/SahilKang/cl-rdkafka.git |
+| commit  | d3700ad                                         |
+| systems | cl-rdkafka                                      |
+|---------+-------------------------------------------------|
